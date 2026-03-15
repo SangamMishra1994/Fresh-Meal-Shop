@@ -10,7 +10,6 @@ Fresh Meal Shop is a web-based application designed to provide an intuitive plat
 
 | Technology | Bytes | Percentage |
 |-----------|-------|-----------|
-| ASP.NET   | 85,820 | 49.2% |
 | HTML      | 47,527 | 27.2% |
 | CSS       | 47,146 | 27.0% |
 | JavaScript | 556 | 0.3% |
